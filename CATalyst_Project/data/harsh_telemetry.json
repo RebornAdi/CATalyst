@@ -1,0 +1,13 @@
+{
+  "operator_id": "OP01",
+  "machine_id": "CAT001",
+  "timestamp": "2026-09-23T10:30:00",
+  "rpm": 2250,
+  "engine_temp": 94,
+  "oil_pressure": 4.0,
+  "hydraulic_pressure": 250,
+  "hydraulic_temp": 78,
+  "vibration": 0.74,
+  "idle_minutes": 47,
+  "load": "HIGH"
+}

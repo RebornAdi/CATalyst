@@ -1,0 +1,4 @@
+-r backend/module1_data_simulation/requirements.txt
+-r backend/module2_intelligence/requirements.txt
+-r backend/module3_orchestrator/requirements.txt
+pytest>=8,<9
